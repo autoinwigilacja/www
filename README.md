@@ -13,6 +13,7 @@ Nawet samo przeglądanie tak jak telefonowanie zostawia ślad - metadane.
 Udostępniamy zdjęcia, komentarze, dane personalne na serwisach społecznościowych
 opowiadamy o przeszłosci, przyszłości i o tym co w danej chwili robimy... ale to nie wszystko.
 
+![social media](socialmedia-what-known-about-you.jpg)
 ---
 + [edit](https://github.com/autoinwigilacja/www/edit/main/README.md)
 + [git](https://github.com/autoinwigilacja/www)
